@@ -1,0 +1,33 @@
+<deviceSoftwares>
+    <deviceID>a2e13f</deviceID>
+    <lastSoftwareDataRefreshDate>2010-11-30T05: 52: 53.011+00: 00</lastSoftwareDataRefreshDate>
+    <devicesw>
+        <swName>Angry Birds</swName>
+        <swAttrs>
+            <swAttr>
+                <key>Application ID</key>
+                <type>String</type>
+                <value>com.angrybirds.com</value>
+                <displayOrder>10</displayOrder>
+            </swAttr>
+        </swAttrs>
+        <swName>Jetpack Joyride</swName>
+        <swAttrs>
+            <swAttr>
+                <key>Application ID</key>
+                <type>String</type>
+                <value>com.jetpackjoyride.com</value>
+                <displayOrder>10</displayOrder>
+            </swAttr>
+        </swAttrs>
+        <swName>Apple Music</swName>
+        <swAttrs>
+            <swAttr>
+                <key>Application ID</key>
+                <type>String</type>
+                <value>com.apple.andoid.music</value>
+                <displayOrder>10</displayOrder>
+            </swAttr>
+        </swAttrs>
+    </devicesw>
+</deviceSoftwares>
